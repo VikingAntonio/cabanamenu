@@ -1,3 +1,6 @@
+body{
+  height:100%;
+}
 .flipbook-viewport {
   overflow: hidden;
   width: 100%;
@@ -263,3 +266,4 @@
     flex-direction: column;
   }
 }
+

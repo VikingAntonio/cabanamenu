@@ -1,9 +1,4 @@
-html, body {
-  height: 100%;
-  overflow: hidden; /* bloquea el scroll vertical y horizontal */
-  margin: 0;
-  padding: 0;
-}
+
 
 .flipbook-viewport {
   overflow: hidden;
@@ -272,6 +267,7 @@ html, body {
     flex-direction: column;
   }
 }
+
 
 
 

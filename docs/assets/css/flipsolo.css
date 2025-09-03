@@ -22,10 +22,8 @@
 }
 
 .flipbook-viewport .flipbook {
-  width: 100%;       /* ocupa todo el ancho del iframe */
-  height: 100%;      /* ocupa toda la altura del iframe */
-  max-width: 100%;   /* no se desborda */
-  max-height: 100%;  /* no se desborda */
+  width: 922px;
+  height: 700px;
 }
 
 
@@ -267,6 +265,7 @@
     flex-direction: column;
   }
 }
+
 
 
 

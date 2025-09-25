@@ -15,7 +15,7 @@ html, body {
 }
 
 .flipbook-viewport .container {
-  position: relative; /* antes estaba absolute */
+  position: absolute; /* antes estaba absolute */
   padding: 0;         /* quita el padding fijo */
   margin: 0 auto;
   text-align: center;
